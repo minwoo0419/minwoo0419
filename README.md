@@ -1,7 +1,7 @@
 
 
 ---
-<div align="center">
+<div align="center" background-color="yellow">
 
 ![minwoo0419's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoo0419&show_icons=true&theme=dark)
 
