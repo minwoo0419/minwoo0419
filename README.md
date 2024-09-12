@@ -9,7 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlrmsjtm4545)](https://solved.ac/tlrmsjtm4545/)
 </div>
-<div>
+<div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/minwoo0419"/>
   </a>
